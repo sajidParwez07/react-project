@@ -6,16 +6,7 @@ import { useEffect, useState } from 'react';
 function App() {
   return (
     <div>
-    <div>Name : {data.name}</div>
-    <div>Email : {data.email}</div>
-    <div>Website : {data.website}</div>
-    <div><label>Country :</label>
-    <select>
-      {data.country.map((country) => {
-        return <option key={country.id} value={country.id}>{country.name}</option>
-      })}
-    </select>
-    </div>
+      <h1>Welcome To Dasboard</h1>
   </div>
   );
 }
