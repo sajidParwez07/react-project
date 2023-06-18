@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <h2>Welcome To Home Page</h2>
+      <p>It is a static page</p>
   </div>
   );
 }
