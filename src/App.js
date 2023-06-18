@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 function App() {
   return (
     <div>
-      <h1>Welcome To Dasboard</h1>
+      <h2>Welcome To Home Page</h2>
   </div>
   );
 }
