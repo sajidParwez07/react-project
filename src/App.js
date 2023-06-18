@@ -6,8 +6,8 @@ import { useEffect, useState } from 'react';
 function App() {
   return (
     <div>
-      <h2>Welcome To Home Page</h2>
-      <p>It is a static page</p>
+      <h2 style={{color:"red"}}>Welcome To Home Page</h2>
+      <p style={{color:"blue"}}>It is a static page</p>
   </div>
   );
 }
