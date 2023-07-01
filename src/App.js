@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 function App() {
   return (
     <div>
-      <h1>Welcome To Dasboard</h1>
+      <h1 style={{color:"red"}}>Welcome To Dasboard</h1>
   </div>
   );
 }
